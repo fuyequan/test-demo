@@ -1,0 +1,106 @@
+body{
+	background:#CCCC99;
+}
+
+.row{ background:#D1CFA9;
+}
+#input{
+	margin: 1.875rem;
+}
+
+.nav ul {
+	list-style: none;
+	width: 100%;
+	height: 30px;
+	padding: 0;
+	margin-top: 5px;
+	margin-left: 10%;
+}
+.login{
+	margin-top: 1.875rem;
+}
+#sele{
+	margin-top: 0.625rem;
+}
+
+.main{
+	width: 100%;
+	height:1000px;
+}
+
+.f1{
+	float: left;
+	width: 270px;
+	height: 900px;
+	margin: 20px 0 0 80px;
+	border: 3px solid black;
+	text-align: center;
+	font-family: "楷体";
+	background-color: palegoldenrod;
+}
+.f1 ul{
+	padding: 0px;
+}
+.f1 ul li{
+	float: left;
+	font-size: 14px;
+	font-family: "楷体";
+	list-style: none;
+	padding: 0px;
+	margin: 10px 40px 5px 20px;
+	text-align: left;
+}
+
+.f2{
+	float: left;
+	margin: 20px 0 0 80px;
+	width: 800px;
+	height: 900px;
+	text-align:center;
+	border: 3px solid black;
+	background-color:palegoldenrod;
+}
+.tang{
+	margin:60px 0 0 50px;
+	padding: 0;
+	width: 700px;
+	height: 200px;
+	border-top:1px dashed gray;
+	background-color:gainsboro ;
+}
+.tea{
+	margin:60px 0 0 50px;
+	padding: 0;
+	width: 700px;
+	height: 200px;
+	border-top: 1px dashed gray;
+	background-color:gainsboro ;
+}
+.draw{
+	margin:60px 0 0 50px;
+	padding: 0;
+	width: 700px;
+	height:200px;
+	border: 1px dashed gray;
+	background-color:gainsboro ;
+}
+.m-right{
+	margin-left: 18.75rem;
+}
+.m1{
+	margin-left:250px;
+	margin-top:10px;
+	padding-left:20px;
+	padding-top:5px;
+	padding-bottom:10px;
+	width:700px;
+	background:#D7D7AE
+	}
+.zuozhe{
+	
+	float:left;
+	padding-top:5px;
+	padding-right:10px;
+	}
+}
+
